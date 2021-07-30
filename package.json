@@ -11,5 +11,10 @@
     "next": "10.2.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@aws-amplify/api": "^3.3.1",
+    "@aws-amplify/core": "^4.0.0",
+    "@aws-amplify/pubsub": "^3.3.1"
   }
 }
